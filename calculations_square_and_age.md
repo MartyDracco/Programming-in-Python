@@ -20,9 +20,9 @@ age = int(input("How old are you?"))
 if age >= 150:
     print"What planet are you from?"
 elif age >= 18:
-    print"Can we offer a wine or a beer or other alcoholic drink?"
+    print"Can we offer wine or beer or other alcoholic drink?"
 elif age >= 1:
-    print"May I offer you a milk, a tea or hot chocolate?"
+    print"May I offer you milk, tea or hot chocolate?"
 elif age >= 0:
     print"Unfortunately, baby food is out of stock"
 else:
