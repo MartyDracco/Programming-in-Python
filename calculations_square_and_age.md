@@ -1,7 +1,7 @@
 # Programming-in-Python
 Some basic code files made in PyCharm that include few functions, some of them use libraries. 
 
-strana=float(input("Define side of a square"))
+side=float(input("Define side of a square"))
 
 number_is_correct = side>0
 
